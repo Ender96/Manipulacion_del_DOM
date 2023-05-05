@@ -2,7 +2,7 @@ const input1=document.querySelector("#calcular1");
 const input2=document.querySelector("#calcular2");
 const boton=document.querySelector(".btn");
 const resultado=document.querySelector(".texto");
-const formulario=document.querySelector("form")
+const formulario=document.querySelector("form");
 
 // boton.addEventListener(`click`,BTN);
 formulario.addEventListener(`submit`,BTN)
